@@ -16,5 +16,14 @@
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://ohkanchi.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohkanchi.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>title: &amp;ldquo;Hola&amp;rdquo; date: 2022-04-11 description: &amp;lsquo;Este es mi primer post, es un post de prueba. 😎&amp;rsquo;</description>
+    </item>
+    
   </channel>
 </rss>
