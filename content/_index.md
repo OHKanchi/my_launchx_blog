@@ -9,8 +9,10 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Dominar el diseño de apps y páginas web. <br>
--Dominar las tareas Full Desk. <br>
--Aprender el uso de Git y Github <br>
+-Dominar el diseño de apps y páginas web.
+
+-Dominar las tareas Full Desk.
+
+-Aprender el uso de Git y Github
 
 🚀
